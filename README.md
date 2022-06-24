@@ -6,3 +6,7 @@
 <br>  2.How to remove stop words?
 <br> 3.How to calculate Cosine similarity?
 <br> 4.How to do top N recommendation?
+
+
+## Data set from Kaggle:
+https://www.kaggle.com/datasets/harmanpreet93/hotelreviews
