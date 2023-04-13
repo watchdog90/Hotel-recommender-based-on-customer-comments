@@ -8,5 +8,5 @@
 <br> 4.How to do top N recommendation?
 
 
-## Data set from Kaggle:
+## Data Set from Kaggle:
 https://www.kaggle.com/datasets/harmanpreet93/hotelreviews
