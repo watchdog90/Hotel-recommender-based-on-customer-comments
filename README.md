@@ -1,23 +1,14 @@
-We will use the SMILE Twitter dataset.
-
-_Wang, Bo; Tsakalidis, Adam; Liakata, Maria; Zubiaga, Arkaitz; Procter, Rob; Jensen, Eric (2016): SMILE Twitter Emotion dataset. figshare. Dataset. https://doi.org/10.6084/m9.figshare.3187909.v2_
-
-
-
-
-
-
-
-
-# Hotel recommender based on customer comments
+# Sentiment Analysis with Deep Learning using BERT
 
 ## Task Objectives:
 
-<br> 1.How to deal with customer comments data? 
-<br>  2.How to remove stop words?
-<br> 3.How to calculate Cosine similarity?
-<br> 4.How to do top N recommendation?
+<br> 1.Learn how to analyse a dataset for sentiment analysis using BERT
+<br> 2.learn how to adjust an optimizer and scheduler for ideal training and performance
+<br> 3.Evaluate performance using F1 scores and accuracy
+<br> 4.Finetune BERT using training loop
 
 
-## Data Set from Kaggle:
-https://www.kaggle.com/datasets/harmanpreet93/hotelreviews
+## Data Set:
+We will use the SMILE Twitter dataset.
+
+_Wang, Bo; Tsakalidis, Adam; Liakata, Maria; Zubiaga, Arkaitz; Procter, Rob; Jensen, Eric (2016): SMILE Twitter Emotion dataset. figshare. Dataset. https://doi.org/10.6084/m9.figshare.3187909.v2_
